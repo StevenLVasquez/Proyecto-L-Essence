@@ -7,7 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📌 Descripción
-**L'Essence** es un proyecto web desarrollado para la asignatura **Tecnologías de Internet 2**, bajo la guía del profesor **Michael Richard**.
+**L'Essence** es un proyecto web desarrollado para la asignatura **Tecnologías de Internet 2**, bajo la guía del profesor **Richard Jimenez**.
 
 Este proyecto busca implementar un sistema web funcional utilizando tecnologías modernas para la gestión y visualización de contenido en línea.
 
