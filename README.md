@@ -49,11 +49,7 @@ L-Essence/
    ```sh
    npm install
    ```
-4. Ejecutar el servidor:
-   ```sh
-   node server/index.js
-   ```
-5. Abrir `index.html` en el navegador para visualizar la aplicación.
+4. Abrir `index.html` en el navegador para visualizar la aplicación.
 
 ## 📌 Contribución
 Si deseas contribuir al proyecto, por favor sigue estos pasos:
